@@ -387,5 +387,17 @@
     "category": "EVENTO/APARIÇÃO",
     "first_seen": 1782146639
   },
-  "initialized::Kaya Scodelario": true
+  "initialized::Kaya Scodelario": true,
+  "initialized::Anne Hathaway": true,
+  "initialized::Léa Seydoux": true,
+  "initialized::Pedro Pascal": true,
+  "initialized::Saoirse Ronan": true,
+  "initialized::Emma Roberts": true,
+  "initialized::Jonathan Bailey": true,
+  "initialized::Shailene Woodley": true,
+  "initialized::Lili Reinhart": true,
+  "initialized::Milly Alcock": true,
+  "initialized::Jessie Buckley": true,
+  "initialized::Julianne Moore": true,
+  "initialized::Mckenna Grace": true
 }
