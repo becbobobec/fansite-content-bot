@@ -1,0 +1,7 @@
+{
+  "send_portuguese_tweet": true,
+  "send_english_tweet": true,
+  "send_wordpress_suggestion": true,
+  "max_alerts_per_artist_per_run": 10,
+  "ignore_first_run_old_items": true
+}

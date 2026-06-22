@@ -1,0 +1,8 @@
+# Um artista por linha.
+# Linhas com # são ignoradas.
+
+Zoey Deutch
+Samara Weaving
+Phoebe Tonkin
+Adelaide Kane
+Kaya Scodelario
